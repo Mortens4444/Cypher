@@ -1,3 +1,3 @@
 .vs/
-Cypher/obj/
-Cypher/bin/
+**/obj/
+**/bin/
